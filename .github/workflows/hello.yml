@@ -10,7 +10,7 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Say Hello
-        run: echo "👋 Hello from GitHub Actions!"
+        run: echo "👋 Hello from GitHub Actions! helllo world123"
 
       - name: Print date
         run: date
